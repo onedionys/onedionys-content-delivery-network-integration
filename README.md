@@ -34,7 +34,7 @@ console.log(deliveredUrl);
 
 * This package provides a function deliverContentViaCDN which integrates with a Content Delivery Network (CDN) to deliver content. It takes two parameters: content (the content to be delivered) and cdnUrl (the URL of the CDN). It returns the URL of the content delivered via the CDN.
 
-#### Return Value
+#### #### Explanation
 
 * `Type`: string
 * `Description`: The URL of the content delivered via CDN.
@@ -43,6 +43,7 @@ console.log(deliveredUrl);
 
 * v1.0.0 : 17 March 2024
 * v1.0.1 : 18 March 2024
+* v1.0.2 : 31 March 2024
 
 ## 🧑 Author
 

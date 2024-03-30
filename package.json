@@ -1,6 +1,6 @@
 {
   "name": "onedionys-content-delivery-network-integration",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "One Dionys (Content Delivery Network Integration) - Integration with CDN services to distribute web application static assets globally, speeding up page load times.",
   "main": "src/cdnIntegration.js",
   "directories": {
